@@ -15,7 +15,7 @@ namespace Bismillah.DL
         private string databaseName = "bismillah";
         private string databaseUser = "root";
 
-        private string databasePassword = "Musfirahzainab123@";
+        private string databasePassword = "Ahadsaab@263";
 
      
 

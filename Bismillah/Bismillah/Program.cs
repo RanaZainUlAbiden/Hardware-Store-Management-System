@@ -16,7 +16,7 @@ namespace Bismillah
 
  
 
-            Application.Run(new ProductOrderManagement());
+            Application.Run(new AdminDashboard());
 
 
 

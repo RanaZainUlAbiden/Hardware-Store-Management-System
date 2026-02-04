@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="UI\AddBorrowedUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\AddCustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\AddProductsUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\AddStaff.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\AddSupplierUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\AdminDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\CashierDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\CreateBill.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\CustomerManagement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\CustomerUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\E-DBorrowUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\ProductUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\ReceivePurchaseOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\StaffUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\SupplierUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\ViewPayments.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
